@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ph-uad
-- 👀 I’m interested in web dev
+- 👀 I’m interested in Front-end web development
 - 🌱 I’m currently learning Js
 - 💞️ I’m looking to collaborate on web development projects 
 - 📫 How to reach me temidayo26j@gmail.com

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Phuad Adebowale
-- 👀 I’m interested in Front-end web development
+- 👀 I’m interested in Web development and Design 
 - 🌱 I’m currently doing project and deviating into typescript
 - 💞️ I’m looking to collaborate on web development projects 
 - 📫 How to reach me temidayo26j@gmail.com

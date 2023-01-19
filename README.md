@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ph-uad
+- 👋 Hi, I’m Phuad Adebowale
 - 👀 I’m interested in Front-end web development
 - 🌱 I’m currently doing project and deviating into typescript
 - 💞️ I’m looking to collaborate on web development projects 

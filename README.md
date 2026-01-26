@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Phuad Adebowale
 - 👀 I’m interested in Software development and Data Science
-- 💞️ I’m looking to collaborate on web development projects 
+- 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me temidayo26j@gmail.com
 - https://ph-uad.github.io/portfolio/
 
